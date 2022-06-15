@@ -1,14 +1,24 @@
-## Project Name : OBSTACLE DETECTION AND SPEED CONTROL OF VEHICLE IN MOTION
 
-### Motive of Our Project :
-Various studies worldwide have concluded that numerous fatal accidents occur due to the negligence of driver. The reasons behind these are manifold.
+# Anti-Collision EV-Tech
 
-In order to avoid such accidents, an idea has been brought out where the obstacles in front of a moving vehicle are detected by sensors, and the speed of the vehicles are reduced to an extent so that the accidents can be avoided.
-
-### Demo Video :
-
-### For more Info :
-Check out project pdf here .
+Obstackle detection and speed control of vechile in motion to avoid accident and collision.
 
 
-Project Demo Video : https://drive.google.com/file/d/1lOwgczQkTLoMtBfAl_tFx11Ky7EAJXD6/view?resourcekey
+## Acknowledgements
+
+ - [Project Report](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Demo Video](https://github.com/matiassingers/awesome-readme)
+ 
+
+## Project Members
+Its a group Project. We are 8 in numbers, They are :
+
+- [Arghyadev Sarkar](https://www.github.com/octokatherine)
+
+
+## Tech Stack
+
+**Logic Purpose :** Audrino Microcontroller UNO R3 ( The heart of the Project) , Audrino IDE , Audrino built in libraries and LCD lib
+
+**Hardware :** Motor Driver , Ultrasonic Sound Sensor 
+
